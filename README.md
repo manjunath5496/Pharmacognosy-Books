@@ -1,27 +1,22 @@
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(1).pdf" style="text-decoration:none;">Ansible for AWS: A simple way to provision and manage your Amazon Cloud infrastructure</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(2).pdf" style="text-decoration:none;">AWS Automation Cookbook</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(3).pdf" style="text-decoration:none;">AWS Certified Developer - Associate Guide</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(4).pdf" style="text-decoration:none;">AWS Certified Solutions Architect Official </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(5).pdf" style="text-decoration:none;">AWS System Administration </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(1).pdf" style="text-decoration:none;">A Text-book of Botany and Pharmacognosy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(2).pdf" style="text-decoration:none;">Trease and Evans Pharmacognosy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(3).pdf" style="text-decoration:none;">Textbook of Pharmacognosy and Phytochemistry</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(4).pdf" style="text-decoration:none;">Marine
+Pharmacognosy: Trends and Applications </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(5).pdf" style="text-decoration:none;">Therapeutic Use of Medicinal Plants and their Extracts: Volume 2, Phytochemistry and Bioactive Compounds </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(6).pdf" style="text-decoration:none;">Overview of Amazon Web Services</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(6).pdf" style="text-decoration:none;">Fundamentals of Pharmacognosy and Phytotherapy</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(7).pdf" style="text-decoration:none;">Amazon Web Services For Dummies</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(8).rar" style="text-decoration:none;">Amazon Web Services in Action</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(9).pdf" style="text-decoration:none;">Learning AWS: Design, build, and deploy responsive applications using AWS cloud components</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(7).pdf" style="text-decoration:none;">Pharmacognosy 1</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(8).pdf" style="text-decoration:none;">Medicinal Natural Products: A Biosynthetic Approach</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(9).pdf" style="text-decoration:none;">Molecular Pharmacognosy</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(10).pdf" style="text-decoration:none;">Mastering AWS Security: Create and maintain a secure cloud ecosystem</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(10).pdf" style="text-decoration:none;">Pharmacotherapy Handbook</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(11).rar" style="text-decoration:none;">Serverless Architectures on AWS </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(12).pdf" style="text-decoration:none;">Cloud Computing For Dummies</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(13).pdf" style="text-decoration:none;">Programming Amazon EC2</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(14).pdf" style="text-decoration:none;">Mastering AWS Lambda </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(15).pdf" style="text-decoration:none;">AWS Certified Solutions Architect Associate  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(16).pdf" style="text-decoration:none;">AWS Administration – The Definitive Guide</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(17).pdf" style="text-decoration:none;">Host Your Web Site in the Cloud: Amazon Web Services Made Easy </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(18).pdf" style="text-decoration:none;">Amazon Web Services: Overview of Security Processes </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(11).pdf" style="text-decoration:none;">A Manual of Histological Pharmacognosy and Bacteriology </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/psy(12).pdf" style="text-decoration:none;">Dictionary of Pharmaceutical Medicine</a></b></li>
+                               
 
 
 
